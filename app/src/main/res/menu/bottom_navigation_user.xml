@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_bottom_sum"
+        android:enabled="true"
+        android:icon="@drawable/ic_summary"
+        android:title="@string/summary"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_bottom_inc"
+        android:enabled="true"
+        android:icon="@drawable/ic_income"
+        android:title="@string/income"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_bottom_exp"
+        android:enabled="true"
+        android:icon="@drawable/ic_expenditure"
+        android:title="@string/expenditure"
+        app:showAsAction="ifRoom" />
+
+</menu>

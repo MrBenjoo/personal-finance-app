@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_summary"
+            android:icon="@drawable/ic_summary"
+            android:title="@string/summary" />
+        <item
+            android:id="@+id/nav_income"
+            android:icon="@drawable/ic_income"
+            android:title="Income" />
+        <item
+            android:id="@+id/nav_expenditure"
+            android:icon="@drawable/ic_expenditure"
+            android:title="Expenditure" />
+
+
+    </group>
+
+    <item android:title="Miscellaneous">
+        <menu>
+            <item
+                android:id="@+id/nav_scan"
+                android:icon="@drawable/ic_barcode_scan"
+                android:title="Barcode Scan" />
+
+            <item
+                android:id="@+id/nav_time_span"
+                android:icon="@drawable/ic_calendar_clock"
+                android:title="Set timespan" />
+
+            <item
+                android:id="@+id/nav_clear_income"
+                android:icon="@drawable/ic_clear"
+                android:title="Clear income list" />
+
+            <item
+                android:id="@+id/nav_clear_expenditure"
+                android:icon="@drawable/ic_clear"
+                android:title="Clear expenditure list" />
+        </menu>
+    </item>
+
+</menu>

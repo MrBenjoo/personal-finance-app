@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="incCategories">
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="expCategories">
+        <item>Accommodation</item>
+        <item>Leisure</item>
+        <item>Travel</item>
+        <item>Food</item>
+    </string-array>
+</resources>

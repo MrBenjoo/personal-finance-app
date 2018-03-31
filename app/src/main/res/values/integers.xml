@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="width">980</integer>
+    <integer name="nWidth">-980</integer>
+    <integer name="height">1920</integer>
+    <integer name="animationTime">300</integer>
+    <integer name="maxCharacters">12</integer> />
+</resources>

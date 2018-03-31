@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Personal Finance App</string>
+
+    <!-- These strings are used in the login fragment -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login_title">Personal Finance App</string>
+    <string name="login_btn">Log in</string>
+    <string name="login_register">Sign up</string>
+    <!-- ****************************************** -->
+
+    <!-- These strings are used in the transaction fragment -->
+    <string name="transaction_title">Title</string>
+    <string name="transaction_amount">Amount</string>
+    <string name="transaction_date">Date</string>
+    <string name="transaction_category">Category</string>
+
+    <!-- These strings are used in the register fragment -->
+    <string name="register_bottom_text">Already have an account? Click here to login</string>
+    <string name="please_fill_in_your_information_below">Please fill in your information below</string>
+    <string name="register">Register</string>
+    <!-- ****************************************** -->
+
+    <!-- UserActivity fragments -->
+    <string name="income">Income</string>
+    <string name="expenditure">Expenditure</string>
+    <string name="summary">Summary</string>
+    <!-- ****************************************** -->
+
+    <!-- item row list -->
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <!-- ************* -->
+
+</resources>
